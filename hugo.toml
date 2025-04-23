@@ -118,16 +118,16 @@ enableEmoji = true
     languageName = "Japanese"
     contentDir = "content/ja"
 
-  [languages.en]
-    weight = 10
-    languageName = "English"
-    contentDir = "content/en"
+#   [languages.en]
+#     weight = 10
+#     languageName = "English"
+#     contentDir = "content/en"
 
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
-    weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
+#   [languages.de]
+#     title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
+#     weight = 20
+#     contentDir = "content/de"
+#     languageName = "Deutsch"
 
 # for GitHub Pages
 # see: https://gohugo.io/host-and-deploy/host-on-github-pages/
