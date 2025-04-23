@@ -4,10 +4,12 @@
 
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
-<!--
 <style>
 :root {
     /* see variables.scss for more variables*/
+    --cover-text-color: #ffffff;
+    --cover-title-text-shadow: #000000 2px 2px 2px;
+    --highlight: #86c440;
 
     /*
     --section-light-text-color: #3a4145!important;
@@ -15,13 +17,33 @@
     --section-dark-bg-color: #035e00!important;
     */
 
-     /* define list element for unnumbered lists, leave empty for default list element */
-     /* fa-asterisk is the default icon if this variable definition is missing completely */
      --ul-li-icon: fa-dashcube;     /* this sets fa-dashcube as list icon */
      --ul-li-icon: ;                /* this sets the default html list icon */
 }
+
+#site-head, #site-head.withCenteredImage {
+     .blog-description {
+          font-size: 1.7rem;
+     }
+
+     .vertical:before {
+          content: '';
+          position: absolute;
+          top:0;
+          right:0;
+          left:0;
+          bottom:0;
+          height: 100%;
+          width: 100%;
+          background:linear-gradient(to right,rgba(4, 4, 162, 0.5),rgba(110, 8, 136, 0.5));
+        }
+
+     video {
+     
+     }
+}
+ 
 </style>
--->
 
 <!-- Custom CSS via "custom.css"-file
      If you would rather place your custom CSS into
