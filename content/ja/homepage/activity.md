@@ -4,7 +4,7 @@ weight: 2
 # header_menu: true
 ---
 
-![野外ライブ](/images/live-outside.webp)
+![野外ライブ](images/live-outside.webp)
 
 - 部室セッション（西千葉は金曜夕方、亥鼻は水曜夕方に開催）
 - 大学祭ライブ（11月）

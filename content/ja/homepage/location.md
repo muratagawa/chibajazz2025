@@ -8,7 +8,7 @@ weight: 4
 
 ##### 西千葉キャンパス
 
-![野外ライブ](/images/location-nishichiba.webp)
+![野外ライブ](images/location-nishichiba.webp)
 
 サッカー・ラグビー場隣のサークル棟に部室があります。
 
@@ -16,7 +16,7 @@ weight: 4
 
 ##### 亥鼻キャンパス
 
-![野外ライブ](/images/location-inohana.webp)
+![野外ライブ](images/location-inohana.webp)
 
 サークル会館B1Fに部室があります。
 
