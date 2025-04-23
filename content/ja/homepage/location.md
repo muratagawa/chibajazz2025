@@ -16,6 +16,6 @@ weight: 4
 
 ##### 亥鼻キャンパス
 
-![西千葉キャンパスマップ](images/location-inohana.webp)
+![亥鼻キャンパスマップ](images/location-inohana.webp)
 
 キャンパス中央、サークル会館B1Fに部室があります。
