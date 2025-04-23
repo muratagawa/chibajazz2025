@@ -1,0 +1,6 @@
+<video playsinline="" autoplay="true" muted="" loop=""
+    poster="https://www.ledger.com/wp-content/themes/ledger-v2/public/images/homepage/home-hero-ledger.jpg">
+
+    {{ $videoResource := resources.Get "cover/daisai.webm" }}
+    <source src="{{ $videoResource.RelPermalink }}" type="video/webm">
+</video>
