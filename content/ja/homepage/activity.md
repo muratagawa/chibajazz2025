@@ -1,5 +1,7 @@
 ---
 title: "活動内容"
+header_menu_title: "activity"
+navigation_menu_title: "activity"
 weight: 2
 # header_menu: true
 ---

@@ -1,5 +1,7 @@
 ---
 title: "入部・見学案内"
+header_menu_title: "entry"
+navigation_menu_title: "entry"
 weight: 3
 # header_menu: true
 ---
