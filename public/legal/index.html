@@ -10,7 +10,7 @@
 
 
 
-  <link rel="shortcut icon" href="/images/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="/images/apple-touch-icon.png" type="image/png" />
 
 
   <meta name="description" content="Chiba University Modern Jazz Society"
@@ -62,18 +62,15 @@ It can contain more or additional information than the dedicated section on the 
 
 
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Monda:wght@400..700&display=swap" rel="stylesheet">
-
-
-
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+
+
 :root {
      
     --cover-text-color: #F2CB2D;
     --cover-title-text-shadow: #020E3E 2px 2px 2px;
-    --highlight: #86c440;
+    --highlight: #fefae8;
 
     --sticky-menu-text-color: #fefae8;
 
@@ -82,20 +79,24 @@ It can contain more or additional information than the dedicated section on the 
     --section-dark-text-color: #e4c134;
     --section-dark-bg-color: #020E3E!important;
 
+    --footer-color-background: #1c1d24;
+    --footer-color: #afb5c1;
+
      --ul-li-icon: fa-dashcube;      
      --ul-li-icon: ;                 
 }
 
 #site-head, #site-head.withCenteredImage {
      .blog-title {
-          font-family: "Monda", sans-serif;
+          font-family: "Antonio", sans-serif;
           font-optical-sizing: auto;
           font-size: 6rem;
-          font-weight: 700;
+          font-weight: 400;
           font-style: normal;
      }
      .blog-description {
           font-size: 1.7rem;
+          font-family: sans-serif;
      }
 
      .vertical:before {
@@ -107,13 +108,26 @@ It can contain more or additional information than the dedicated section on the 
           bottom:0;
           height: 100%;
           width: 100%;
-          background: linear-gradient(30deg,rgba(8, 3, 139, 0.5),rgba(134, 84, 5, 0.5));
-        }
+          background: linear-gradient(30deg,rgba(4, 1, 73, 0.5),rgba(4, 7, 77, 0.8));
+     }
 
+     #header-arrow {
+          display: none;
+     }
+
+}
+
+.fixed-nav {
+     border-radius: 0;
 }
 
 body {
   font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+}
+
+li {
+     margin-left: 0;
 }
 </style>
 
