@@ -59,23 +59,41 @@
 
 
 
-
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+
+
 :root {
      
-    --cover-text-color: #ffffff;
-    --cover-title-text-shadow: #000000 2px 2px 2px;
-    --highlight: #86c440;
+    --cover-text-color: #F2CB2D;
+    --cover-title-text-shadow: #020E3E 2px 2px 2px;
+    --highlight: #fefae8;
 
-     
+    --sticky-menu-text-color: #fefae8;
+
+    --section-light-text-color: #0D2153!important;
+    --section-light-bg-color: #C99E05!important;
+    --section-dark-text-color: #e4c134;
+    --section-dark-bg-color: #020E3E!important;
+
+    --footer-color-background: #1c1d24;
+    --footer-color: #afb5c1;
 
      --ul-li-icon: fa-dashcube;      
      --ul-li-icon: ;                 
 }
 
 #site-head, #site-head.withCenteredImage {
+     .blog-title {
+          font-family: "Antonio", sans-serif;
+          font-optical-sizing: auto;
+          font-size: 6rem;
+          font-weight: 400;
+          font-style: normal;
+     }
      .blog-description {
           font-size: 1.7rem;
+          font-family: sans-serif;
      }
 
      .vertical:before {
@@ -87,14 +105,27 @@
           bottom:0;
           height: 100%;
           width: 100%;
-          background:linear-gradient(to right,rgba(4, 4, 162, 0.5),rgba(110, 8, 136, 0.5));
-        }
-
-     video {
-     
+          background: linear-gradient(30deg,rgba(4, 1, 73, 0.5),rgba(4, 7, 77, 0.8));
      }
+
+     #header-arrow {
+          display: none;
+     }
+
 }
- 
+
+.fixed-nav {
+     border-radius: 0;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+}
+
+li {
+     margin-left: 0;
+}
 </style>
 
 
@@ -143,15 +174,15 @@
 	    
 
             
-              <h1 class="blog-title">千葉大学<br>モダンジャズ<br>研究会</h1>
-              <h2 class="blog-description">Chiba University Modern Jazz Society</h2>
+              <h1 class="blog-title">Chiba University<br>Modern Jazz Society</h1>
+              <h2 class="blog-description">千葉大学モダンジャズ研究会</h2>
             
 
             
 
             
                 
-                <a id='header-arrow' href="#%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e7%b4%b9%e4%bb%8b" aria-label="Go to first section"><i class="fa fa-angle-down"></i></a>
+                <a id='header-arrow' href="#about" aria-label="Go to first section"><i class="fa fa-angle-down"></i></a>
             
         </div>
     </div>
@@ -164,23 +195,23 @@
         
         
             
-            <a class='fn-item' item_index='1' href='#%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e7%b4%b9%e4%bb%8b'>サークル紹介</a>
+            <a class='fn-item' item_index='1' href='#about'>about</a>
             
         
             
-            <a class='fn-item' item_index='2' href='#%e6%b4%bb%e5%8b%95%e5%86%85%e5%ae%b9'>活動内容</a>
+            <a class='fn-item' item_index='2' href='#activity'>activity</a>
             
         
             
-            <a class='fn-item' item_index='3' href='#%e5%85%a5%e9%83%a8%e8%a6%8b%e5%ad%a6%e6%a1%88%e5%86%85'>入部・見学案内</a>
+            <a class='fn-item' item_index='3' href='#entry'>entry</a>
             
         
             
-            <a class='fn-item' item_index='4' href='#%e6%b4%bb%e5%8b%95%e5%a0%b4%e6%89%80'>活動場所</a>
+            <a class='fn-item' item_index='4' href='#location'>location</a>
             
         
             
-            <a class='fn-item' item_index='5' href='#%e9%80%a3%e7%b5%a1%e5%85%88'>連絡先</a>
+            <a class='fn-item' item_index='5' href='#contact'>contact</a>
             
         
         
@@ -191,7 +222,7 @@
         
         
         <div class='post-holder'>
-            <article id='サークル紹介' class='post first '>
+            <article id='about' class='post first '>
                 <header class="post-header">
                     <h2 class="post-title">サークル紹介</h2>
                 </header>
@@ -208,7 +239,7 @@
         
         
         <div class='post-holder dark'>
-            <article id='活動内容' class='post  '>
+            <article id='activity' class='post  '>
                 <header class="post-header">
                     <h2 class="post-title">活動内容</h2>
                 </header>
@@ -231,7 +262,7 @@
         
         
         <div class='post-holder'>
-            <article id='入部見学案内' class='post  '>
+            <article id='entry' class='post  '>
                 <header class="post-header">
                     <h2 class="post-title">入部・見学案内</h2>
                 </header>
@@ -248,7 +279,7 @@
         
         
         <div class='post-holder dark'>
-            <article id='活動場所' class='post  '>
+            <article id='location' class='post  '>
                 <header class="post-header">
                     <h2 class="post-title">活動場所</h2>
                 </header>
@@ -272,7 +303,7 @@
         
         
         <div class='post-holder'>
-            <article id='連絡先' class='post  last'>
+            <article id='contact' class='post  last'>
                 <header class="post-header">
                     <h2 class="post-title">連絡先</h2>
                 </header>

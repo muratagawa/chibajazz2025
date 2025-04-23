@@ -1,29 +1,43 @@
 <!-- A partial to be overwritten by the user.
      Its content will appear before the closing </head>-tag -->
 
-
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Antonio&display=swap');
+
+
 :root {
     /* see variables.scss for more variables*/
-    --cover-text-color: #ffffff;
-    --cover-title-text-shadow: #000000 2px 2px 2px;
-    --highlight: #86c440;
+    --cover-text-color: #F2CB2D;
+    --cover-title-text-shadow: #020E3E 2px 2px 2px;
+    --highlight: #fefae8;
 
-    /*
-    --section-light-text-color: #3a4145!important;
-    --section-light-bg-color: #ffdb8c!important;
-    --section-dark-bg-color: #035e00!important;
-    */
+    --sticky-menu-text-color: #fefae8;
+
+    --section-light-text-color: #0D2153!important;
+    --section-light-bg-color: #C99E05!important;
+    --section-dark-text-color: #e4c134;
+    --section-dark-bg-color: #020E3E!important;
+
+    --footer-color-background: #1c1d24;
+    --footer-color: #afb5c1;
 
      --ul-li-icon: fa-dashcube;     /* this sets fa-dashcube as list icon */
      --ul-li-icon: ;                /* this sets the default html list icon */
 }
 
 #site-head, #site-head.withCenteredImage {
+     .blog-title {
+          font-family: "Antonio", sans-serif;
+          font-optical-sizing: auto;
+          font-size: 6rem;
+          font-weight: 400;
+          font-style: normal;
+     }
      .blog-description {
           font-size: 1.7rem;
+          font-family: sans-serif;
      }
 
      .vertical:before {
@@ -35,13 +49,26 @@
           bottom:0;
           height: 100%;
           width: 100%;
-          background:linear-gradient(to right,rgba(4, 4, 162, 0.5),rgba(110, 8, 136, 0.5));
-        }
+          background: linear-gradient(30deg,rgba(4, 1, 73, 0.5),rgba(4, 7, 77, 0.8));
+     }
 
+     #header-arrow {
+          display: none;
+     }
+
+}
+
+.fixed-nav {
+     border-radius: 0;
 }
 
 body {
   font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+}
+
+li {
+     margin-left: 0;
 }
 </style>
 

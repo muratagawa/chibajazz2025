@@ -1,5 +1,7 @@
 ---
 title: "活動場所"
+header_menu_title: "location"
+navigation_menu_title: "location"
 weight: 4
 #header_menu: true
 ---

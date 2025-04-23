@@ -1,5 +1,7 @@
 ---
 title: "連絡先"
+header_menu_title: "contact"
+navigation_menu_title: "contact"
 weight: 5
 # header_menu: true
 ---

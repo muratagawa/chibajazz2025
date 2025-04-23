@@ -9,8 +9,8 @@ header_use_video: true
 # header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "千葉大学<br>モダンジャズ<br>研究会"
-header_subheadline: "Chiba University Modern Jazz Society"
+header_headline: "Chiba University<br>Modern Jazz Society"
+header_subheadline: "千葉大学モダンジャズ研究会"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
