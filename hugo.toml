@@ -1,5 +1,6 @@
 baseURL = "https://example.com"
 
+
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
@@ -127,3 +128,9 @@ enableEmoji = true
     weight = 20
     contentDir = "content/de"
     languageName = "Deutsch"
+
+# for GitHub Pages
+# see: https://gohugo.io/host-and-deploy/host-on-github-pages/
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
