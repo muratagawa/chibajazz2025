@@ -1,0 +1,148 @@
+<svg viewBox="-52 -52 1619 1056" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+          <rect id="path-1" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-2" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-3" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-4" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-5" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-6" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-7" x="0" y="0" width="335" height="447"></rect>
+          <rect id="path-8" x="0" y="0" width="335" height="447"></rect>
+      </defs>
+      <g id="Palette" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="sketch-flat-palette" transform="translate(-52.000000, -52.000000)">
+              <g id="Group" transform="translate(52.000000, 52.000000)">
+                  <g id="color">
+                      <g id="bg">
+                          <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                          <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+                      </g>
+                      <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                          <tspan x="23" y="265" fill="#2E2E2E">Deep Cove</tspan>
+                          <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 03</tspan>
+                          <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#224A7D</tspan>
+                          <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(34, 74, 125)</tspan>
+                          <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 7687 C</tspan>
+                      </text>
+                      <rect fill="#224A7D" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy" transform="translate(393.000000, 0.000000)">
+                  <g id="bg">
+                          <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                          <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+                      </g>
+                      <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                          <tspan x="23" y="265" fill="#2E2E2E">Deep Cove</tspan>
+                          <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 02</tspan>
+                          <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                          <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#183468</tspan>
+                          <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(24, 52, 104)</tspan>
+                          <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 534 C</tspan>
+                      </text>
+                      <rect fill="#183468" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-2" transform="translate(787.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Deep Cove</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 01</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#0D2153</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(13, 33, 83)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 2766 C</tspan>
+              </text>
+              <rect fill="#0D2153" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-3" transform="translate(1180.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Deep Cove</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#020E3E</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(2, 14, 62)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 282 C</tspan>
+              </text>
+              <rect fill="#020E3E" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+              </g>
+              <g id="Group-2" transform="translate(52.000000, 557.000000)">
+                  <g id="color-copy-4">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Buddha Gold</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Light Shade 01</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#F2CB2D</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(242, 203, 45)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 123 C</tspan>
+              </text>
+              <rect fill="#F2CB2D" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-5" transform="translate(393.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Buddha Gold</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#C99E05</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(201, 158, 5)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 117 C</tspan>
+              </text>
+              <rect fill="#C99E05" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-6" transform="translate(787.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Buddha Gold</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Dark Shade 01</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#AB8301</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(171, 131, 1)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 118 C</tspan>
+              </text>
+              <rect fill="#AB8301" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+                  <g id="color-copy-7" transform="translate(1180.000000, 0.000000)">
+                  <g id="bg">
+                  <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                  <rect stroke="#C1C1C1" stroke-width="1" x="0.5" y="0.5" width="334" height="446"></rect>
+              </g>
+              <text id="color-label" font-family="Arial-BoldMT, Arial" font-size="24" font-weight="bold" line-spacing="18" letter-spacing="0.349999994">
+                  <tspan x="23" y="265" fill="#2E2E2E">Buddha Gold</tspan>
+                  <tspan x="23" y="289.246094" font-size="14" fill="#2E2E2E"> Dark Shade 02</tspan>
+                  <tspan x="23" y="307.246094" font-size="14" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="325.246094" font-size="14" line-spacing="15" fill="#2E2E2E"></tspan>
+                  <tspan x="23" y="340.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">#8D6A01</tspan>
+                  <tspan x="23" y="376.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">rgb(141, 106, 1)</tspan>
+                  <tspan x="23" y="412.246094" font-family="ArialMT, Arial" font-size="18" font-weight="normal" line-spacing="36" letter-spacing="0.35" fill="#232323" fill-opacity="0.5">Pantone 392 C</tspan>
+              </text>
+              <rect fill="#8D6A01" x="0" y="0" width="335" height="215"></rect>
+                  </g>
+              </g>
+          </g>
+      </g>
+  </svg>
