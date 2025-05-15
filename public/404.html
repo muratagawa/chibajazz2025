@@ -34,7 +34,7 @@
 
 
 
-<link rel="stylesheet" href="/css/style.min.723f9f784e5706b31546134f2b00f50122aaff59fb1cc55efc9ca4f10bbf9493.css" type="text/css" integrity="sha256-cj&#43;feE5XBrMVRhNPKwD1ASKq/1n7HMVe/Jyk8Qu/lJM=" />
+<link rel="stylesheet" href="/css/style.min.e53f2c9ac2c9546c692fcccb63edb27eb6f868b7cbc8aa3b1435b0daf80867d8.css" type="text/css" integrity="sha256-5T8smsLJVGxpL8zLY&#43;2yfrb4aLfLyKo7FDWw2vgIZ9g=" />
 
 <meta property="og:url" content="https://example.com/404.html">
   <meta property="og:site_name" content="千葉大学モダンジャズ研究会 - Chiba University Modern Jazz Society">
@@ -82,6 +82,29 @@
      --ul-li-icon: ;                 
 }
 
+#site-head {
+     height: 100vh;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 0;
+     margin: 0;
+
+     video {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          min-width: 100%;
+          min-height: 100%;
+          -o-object-fit: cover;
+          object-fit: cover;
+          z-index: -100;
+     }
+}
+
 #site-head, #site-head.withCenteredImage {
      .blog-title {
           font-family: "Antonio", sans-serif;
@@ -104,7 +127,7 @@
           bottom:0;
           height: 100%;
           width: 100%;
-          background: linear-gradient(30deg,rgba(4, 1, 73, 0.5),rgba(4, 7, 77, 0.8));
+          background: linear-gradient(30deg,rgba(4, 1, 73, 0.7),rgba(4, 7, 77, 0.8));
      }
 
      #header-arrow {
