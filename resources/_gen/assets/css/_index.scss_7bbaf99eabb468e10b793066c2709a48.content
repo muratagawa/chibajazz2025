@@ -51,7 +51,8 @@ body {
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center; }
 
-#site-head, #site-head.withCenteredImage {
+#site-head,
+#site-head.withCenteredImage {
   position: relative;
   display: table;
   width: 100%;
@@ -62,7 +63,8 @@ body {
   background-size: cover;
   /* Big cover video at the landing area */
   /** The arrow button to scroll to content */ }
-  #site-head video, #site-head.withCenteredImage video {
+  #site-head video,
+  #site-head.withCenteredImage video {
     bottom: 0;
     height: 100%;
     min-width: 100%;
@@ -73,18 +75,21 @@ body {
     top: 0;
     width: auto;
     z-index: -100; }
-  #site-head .title-and-description-guard, #site-head.withCenteredImage .title-and-description-guard {
+  #site-head .title-and-description-guard,
+  #site-head.withCenteredImage .title-and-description-guard {
     margin: auto;
     padding: 0.6em;
     background-color: var(--cover-title-and-description-guard-bg-color);
     border-radius: 25px;
     width: fit-content; }
-  #site-head .blog-title, #site-head.withCenteredImage .blog-title {
+  #site-head .blog-title,
+  #site-head.withCenteredImage .blog-title {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow); }
-  #site-head .blog-description, #site-head.withCenteredImage .blog-description {
+  #site-head .blog-description,
+  #site-head.withCenteredImage .blog-description {
     margin: 0;
     font-size: 2.5rem;
     line-height: 1.5em;
@@ -92,9 +97,11 @@ body {
     font-family: "Roboto Slab", serif;
     letter-spacing: 0;
     text-shadow: var(--cover-title-text-shadow); }
-  #site-head #site-languages, #site-head.withCenteredImage #site-languages {
+  #site-head #site-languages,
+  #site-head.withCenteredImage #site-languages {
     text-align: right; }
-  #site-head #site-languages .btn-lang, #site-head.withCenteredImage #site-languages .btn-lang {
+  #site-head #site-languages .btn-lang,
+  #site-head.withCenteredImage #site-languages .btn-lang {
     text-decoration: none;
     background-color: var(--highlight);
     color: var(--highlight-contrast);
@@ -106,12 +113,18 @@ body {
     padding: 0.3rem 0.7rem;
     position: relative;
     text-transform: uppercase; }
-    #site-head #site-languages .btn-lang.active, #site-head #site-languages .btn-lang:hover, #site-head.withCenteredImage #site-languages .btn-lang.active, #site-head.withCenteredImage #site-languages .btn-lang:hover {
+    #site-head #site-languages .btn-lang.active, #site-head #site-languages .btn-lang:hover,
+    #site-head.withCenteredImage #site-languages .btn-lang.active,
+    #site-head.withCenteredImage #site-languages .btn-lang:hover {
       color: var(--highlight-inverse-contrast);
       background-color: var(--highlight-inverse); }
-  #site-head a.btn, #site-head #site-languages .btn-lang, #site-head.withCenteredImage a.btn, #site-head.withCenteredImage #site-languages .btn-lang {
+  #site-head a.btn,
+  #site-head #site-languages .btn-lang,
+  #site-head.withCenteredImage a.btn,
+  #site-head.withCenteredImage #site-languages .btn-lang {
     font-family: "Oswald", sans-serif; }
-  #site-head a.btn, #site-head.withCenteredImage a.btn {
+  #site-head a.btn,
+  #site-head.withCenteredImage a.btn {
     text-decoration: none;
     background-color: var(--highlight);
     color: var(--highlight-contrast);
@@ -128,10 +141,12 @@ body {
     cursor: pointer;
     text-transform: uppercase;
     font-weight: lighter; }
-    #site-head a.btn:hover, #site-head.withCenteredImage a.btn:hover {
+    #site-head a.btn:hover,
+    #site-head.withCenteredImage a.btn:hover {
       color: var(--highlight-inverse-contrast);
       background-color: var(--highlight-inverse); }
-  #site-head #header-arrow, #site-head.withCenteredImage #header-arrow {
+  #site-head #header-arrow,
+  #site-head.withCenteredImage #header-arrow {
     font-size: 140px;
     margin: -10px auto;
     text-align: center;
@@ -144,7 +159,8 @@ body {
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
     -moz-transition: all ease 0.3s; }
-    #site-head #header-arrow:hover, #site-head.withCenteredImage #header-arrow:hover {
+    #site-head #header-arrow:hover,
+    #site-head.withCenteredImage #header-arrow:hover {
       color: inherit;
       opacity: 0.9; }
 
